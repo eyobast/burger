@@ -1,0 +1,28 @@
+body {
+    background: #efeee7;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/*p {
+    text-align: center;
+}*/
+
+/*ul {
+    text-align: center;
+}
+*/
